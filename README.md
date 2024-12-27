@@ -1,5 +1,5 @@
 # Hey there 👋, I'm Artem 
-## A passionate beginner looking to develop his web development skills  
+## Product Manager passionate in front-end technologies  
 
 On a normal day, you'll find me:
 - ☕ enjoying morning coffee  
@@ -36,6 +36,3 @@ On a normal day, you'll find me:
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
-## 🎹 Listen with me
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11176382141&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
