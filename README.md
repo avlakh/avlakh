@@ -5,7 +5,6 @@ On a normal day, you'll find me:
 - ☕ enjoying morning coffee  
 - 🎮 playing some single-player video games 
 - 🗺️ being a map nerd looking for new places on a map
-- 💻 developing my code skills, of course!
 
 
 ## 🛠️ Skills
